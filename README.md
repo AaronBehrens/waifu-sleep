@@ -1,6 +1,6 @@
 # waifu-sleep
 
-if someone from blueprint reads this vegan epa is a thing https://iwilife.com
+if someone from blueprint reads this vegan epa(without dha) is a thing https://iwilife.com
 
 the goal is too facilitate rem shifting and track sleep biometrics contactlessly (heart,respiration,movement) with automatic sleep staging.
 i will elaborate and upload what i already implemented shortly, i would hope.
